@@ -19,7 +19,7 @@ Hi!  I'm a mobile app developer with experience building native apps for Android
 ## Contact
 
 * **Email:** [akashakhandagale@gmail.com]
-* **LinkedIn:** [[your_LinkedIn_profile_URL](https://www.linkedin.com/in/akash-khandagale-78142b192/)]
+* **LinkedIn:** [https://www.linkedin.com/in/akash-khandagale-78142b192/]
 
 ## Languages
 
